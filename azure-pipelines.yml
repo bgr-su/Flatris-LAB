@@ -21,7 +21,7 @@ variables:
   environmentName: 'testapp-bt'
  
   # Agent VM image name
-  vmImageName: 'Hosted Agent'
+  vmImageName: 'ubuntu-latest'
   
 stages:
 - stage: Archive
